@@ -1,62 +1,62 @@
 {
-    "id": "https://lti-ri.imsglobal.org/platforms/225/contexts/268/memberships",
-    "context": {
-        "id": 12345,
-        "label": "label Course 12345",
-        "title": "title Course 12345"
+  "id": "https://lti-ri.imsglobal.org/platforms/225/contexts/268/memberships",
+  "context": {
+    "id": 12345,
+    "label": "label Course 12345",
+    "title": "title Course 12345"
+  },
+  "members": [
+    {
+      "name": "Granville Nilsa Becker",
+      "picture": "http://example.org/Granville.jpg",
+      "given_name": "Granville",
+      "family_name": "Becker",
+      "middle_name": "Nilsa",
+      "email": "12345678901@example.org",
+      "user_id": "12345678901",
+      "lis_person_sourcedid": "a436c7fa59e816f193c6",
+      "roles": [
+        "Instructor"
+      ]
     },
-    "members": [
-        {
-            "name": "Granville Nilsa Becker",
-            "picture": "http://example.org/Granville.jpg",
-            "given_name": "Granville",
-            "family_name": "Becker",
-            "middle_name": "Nilsa",
-            "email": "12345678901@example.org",
-            "user_id": "12345678901",
-            "lis_person_sourcedid": "a436c7fa59e816f193c6",
-            "roles": [
-                "Instructor"
-            ]
-        },
-        {
-            "name": "Bobbie Chia Schmidt",
-            "picture": "http://example.org/Bobbie.jpg",
-            "given_name": "Bobbie",
-            "family_name": "Schmidt",
-            "middle_name": "Chia",
-            "email": "12345678902@example.org",
-            "user_id": "12345678902",
-            "lis_person_sourcedid": "0b75961ed54ecf7328cc",
-            "roles": [
-                "Learner"
-            ]
-        },
-        {
-            "name": "Samella Rubin Rohan",
-            "picture": "http://example.org/Samella.jpg",
-            "given_name": "Samella",
-            "family_name": "Rohan",
-            "middle_name": "Rubin",
-            "email": "12345678903@example.org",
-            "user_id": "12345678903",
-            "lis_person_sourcedid": "9785bd29264855307284",
-            "roles": [
-                "Learner"
-            ]
-        },
-        {
-            "name": "Lonnie Adalberto Conn",
-            "picture": "http://example.org/Lonnie.jpg",
-            "given_name": "Lonnie",
-            "family_name": "Conn",
-            "middle_name": "Adalberto",
-            "email": "12345678904@example.org",
-            "user_id": "12345678904",
-            "lis_person_sourcedid": "31ab1d6355dc6ec2b90f",
-            "roles": [
-                "Learner"
-            ]
-        }
-	]
+    {
+      "name": "Bobbie Chia Schmidt",
+      "picture": "http://example.org/Bobbie.jpg",
+      "given_name": "Bobbie",
+      "family_name": "Schmidt",
+      "middle_name": "Chia",
+      "email": "12345678902@example.org",
+      "user_id": "12345678902",
+      "lis_person_sourcedid": "0b75961ed54ecf7328cc",
+      "roles": [
+        "Learner"
+      ]
+    },
+    {
+      "name": "Samella Rubin Rohan",
+      "picture": "http://example.org/Samella.jpg",
+      "given_name": "Samella",
+      "family_name": "Rohan",
+      "middle_name": "Rubin",
+      "email": "12345678903@example.org",
+      "user_id": "12345678903",
+      "lis_person_sourcedid": "9785bd29264855307284",
+      "roles": [
+        "Learner"
+      ]
+    },
+    {
+      "name": "Lonnie Adalberto Conn",
+      "picture": "http://example.org/Lonnie.jpg",
+      "given_name": "Lonnie",
+      "family_name": "Conn",
+      "middle_name": "Adalberto",
+      "email": "12345678904@example.org",
+      "user_id": "12345678904",
+      "lis_person_sourcedid": "31ab1d6355dc6ec2b90f",
+      "roles": [
+        "Learner"
+      ]
+    }
+  ]
 }
